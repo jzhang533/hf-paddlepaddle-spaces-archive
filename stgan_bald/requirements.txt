@@ -1,0 +1,6 @@
+paddlepaddle
+paddlehub
+opencv-python-headless
+Pillow
+scikit-image
+ppgan

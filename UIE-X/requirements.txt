@@ -1,0 +1,6 @@
+numpy==1.21.6
+opencv-python
+paddlenlp>=2.4.8
+paddleocr
+-f https://www.paddlepaddle.org.cn/whl/linux/mkl/avx/stable.html
+paddlepaddle-gpu==2.4.1.post112
